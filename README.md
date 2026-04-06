@@ -31,6 +31,7 @@ Using the `students` dataset, we analyze factors such as social connectedness, a
 
 ## 👤 Author
 Cheyenne Quann
+
 Business Intelligence Analytics Apprentice  
 Las Vegas, NV
 
